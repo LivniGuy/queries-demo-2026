@@ -1,4 +1,4 @@
-# Project Name
+# Queries demo
 
 ## Description
 A concise overview of the project's purpose, main features, and intended use cases.
